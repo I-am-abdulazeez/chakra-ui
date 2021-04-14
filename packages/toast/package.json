@@ -1,6 +1,6 @@
 {
   "name": "@chakra-ui/toast",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "description",
   "keywords": [
     "theme",
@@ -55,7 +55,7 @@
     "@chakra-ui/alert": "1.2.2",
     "@chakra-ui/close-button": "1.1.6",
     "@chakra-ui/hooks": "1.4.0",
-    "@chakra-ui/theme": "1.8.2",
+    "@chakra-ui/theme": "1.8.3",
     "@chakra-ui/transition": "1.2.0",
     "@chakra-ui/utils": "1.5.2",
     "@reach/alert": "0.13.2"
